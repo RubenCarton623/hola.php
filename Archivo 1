@@ -1,4 +1,5 @@
 <?php
 echo "Hola Mundo\n";
-echo "Ruven Vera\n";
+echo "Ruben Vera\n";
+echo "Adios\n";
 ?>
